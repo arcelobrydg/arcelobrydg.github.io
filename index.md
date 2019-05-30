@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### FreeCodeCamp.org Curriculum 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Tribute Page](https://codepen.io/dunemustier/full/qGyYVJ)
+<img src="images/tribute-page.JPG"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
