@@ -6,5 +6,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   My financial status prevents me from affording college. To make up for it, I am self-studying web-development languages like HTML, CSS, and Javascript. Soon, I will also teach myself programming languages; currently interested in Java, C++, and Python.
   <br><br>
   
-theme: jekyll-theme-minimal
+theme: jekyll-theme-midnight
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
