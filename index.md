@@ -12,7 +12,8 @@ Project 2: [Survey Form](https://codepen.io/dunemustier/full/BeOrOG)
 <img src="images/survey.JPG"/>
 
 ---
-Project 3: Product Landing Page **(In progress!)**
+Project 3: [Product Landing Page](https://codepen.io/dunemustier/pen/pmQwVQ)
+<img src="images/landing.JPG"/>
 
 ---
 
